@@ -1,6 +1,6 @@
 # Guild Manager - Jeu de Gestion de Guilde en C#
 
-Un jeu de stratégie tour par tour en C# où vous gérez une guilde d'aventuriers, planifiez des missions, gérez les ressources, entraînez vos héros et envoyez les a l'aventure !
+Un jeu de stratégie tour par tour en C# où vous gérez une guilde d'aventuriers, planifiez des missions, gérez les ressources, entraînez vos héros et envoyez les à l'aventure !
 
 ## 📋 Table des matières
 
